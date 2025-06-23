@@ -2,7 +2,7 @@
 
 Een beknopt maar volledig overzicht van een nieuw project, ontworpen om de 'wie, wat, waarom en wanneer' helder te definiëren. Gebruik dit als de startkwalificatie voor elk nieuw initiatief, van een marketingcampagne tot het organiseren van een evenement.
 
-🔐 **Key Information Captured:** Probleemstelling, doelen, succescriteria, doelgroep, scope en randvoorwaarden.
+🔐 **Vastgelegde Informatie:** Probleemstelling, doelen, succescriteria, doelgroep, scope, business waarde, strategische doelstellingen, succes metrics, afhankelijkheden, risico's, stakeholders en randvoorwaarden.
 
 ## **🤖 AI Agent Context**
 
@@ -32,7 +32,23 @@ Een beknopt maar volledig overzicht van een nieuw project, ontworpen om de 'wie,
 * \[Contextpunt 2: De CEO is de primaire belanghebbende en eindbeslisser.\]
 * *Voorbeeld: Dit is een pilotproject; bij succes wordt het organisatiebreed uitgerold.*
 
-## **🎯 1\. Probleem & Doel**
+## **💼 1\. Business Waarde / Rechtvaardiging**
+
+💡 *Waarom is dit project belangrijk? Welke waarde levert het op voor de organisatie? Kwantificeer indien mogelijk.*
+
+\[Gedetailleerde uitleg van de business waarde en rechtvaardiging\]
+
+## **🎯 2\. Strategische Doelstellingen**
+
+💡 *Wat zijn de hoofddoelen die dit project wil bereiken? Lijst 2-5 belangrijke doelstellingen.*
+
+* **Doel 1:** \[Beschrijving van strategisch doel\]
+  * Doelstelling 1.1: \[Specifieke, meetbare doelstelling\]
+  * Doelstelling 1.2: \[Specifieke, meetbare doelstelling\]
+* **Doel 2:** \[Beschrijving van strategisch doel\]
+  * Doelstelling 2.1: \[Specifieke, meetbare doelstelling\]
+
+## **🎯 3\. Probleem & Doel**
 
 💡 *Beschrijf de kern van het project: het 'waarom'. Dit is de belangrijkste sectie om iedereen op één lijn te krijgen.*
 
@@ -42,14 +58,14 @@ Een beknopt maar volledig overzicht van een nieuw project, ontworpen om de 'wie,
     * Doelstelling 1: \[e.g., De conversieratio van de 'vraag offerte aan'-knop verhogen met 10% in Q3.\]
     * Doelstelling 2: \[e.g., 500 nieuwe nieuwsbriefabonnees werven via de nieuwe campagne voor \[datum\].\]
 
-## **👥 2\. Doelgroep**
+## **👥 4\. Doelgroep**
 
 💡 *Voor wie doen we dit? Het begrijpen van de doelgroep is cruciaal voor succes.*
 
 * **Primaire Doelgroep:** \[Beschrijf de belangrijkste gebruiker, klant of ontvanger van dit project. e.g., "Marketingmanagers bij middelgrote tech-bedrijven."\]
 * **Secundaire Doelgroep(en):** \[Wie wordt er nog meer (in)direct beïnvloed door dit project? e.g., "Sales team, huidige klanten."\]
 
-## **🗺️ 3\. Scope**
+## **🗺️ 5\. Scope**
 
 💡 *Definieer duidelijk de grenzen van het project. Dit voorkomt 'scope creep' en stelt duidelijke verwachtingen.*
 
@@ -60,7 +76,7 @@ Een beknopt maar volledig overzicht van een nieuw project, ontworpen om de 'wie,
     * \[Uitgesloten resultaat 1: e.g., Een volledige herontwerp van de website\]
     * \[Uitgesloten resultaat 2: e.g., Het organiseren van een live evenement\]
 
-## **✅ 4\. Succescriteria**
+## **✅ 6\. Succescriteria**
 
 💡 *Hoe weten we wanneer het project een succes is? Dit zijn de afvinkbare, objectieve criteria.*
 
@@ -73,7 +89,44 @@ Een beknopt maar volledig overzicht van een nieuw project, ontworpen om de 'wie,
 *
     * \[ \] Criterium 4: \[e.g., Positieve feedback ontvangen van minimaal 80% van de interne stakeholders.\]
 
-## **⚙️ 5\. Randvoorwaarden & Aannames**
+## **📈 7\. Succes Metrics / KPIs**
+
+💡 *Hoe meten we het succes? Definieer belangrijke prestatie-indicatoren.*
+
+* **KPI 1:** \[Naam van KPI\] - Doel: \[Meetbaar Doel\]
+* **KPI 2:** \[Naam van KPI\] - Doel: \[Meetbaar Doel\]
+* **KPI 3:** \[Naam van KPI\] - Doel: \[Meetbaar Doel\]
+
+## **🧑‍🤝‍🧑 8\. Stakeholders**
+
+💡 *Wie zijn de belangrijkste belanghebbenden voor dit project?*
+
+* **Project Sponsor:** \[@gebruikersnaam of Team Naam\]
+* **Belangrijke Afdelingen:** \[bijv. Marketing, Sales, Operations\]
+* **Projectleider:** \[@gebruikersnaam of Team Naam\]
+* **Andere Belangrijke Contacten:** \[Namen en rollen\]
+
+## **🔗 9\. Afhankelijkheden**
+
+💡 *Zijn er interne of externe afhankelijkheden die impact kunnen hebben?*
+
+* **Interne Afhankelijkheden:** \[bijv. Afhankelijk van Team X voor Component Y\]
+* **Externe Afhankelijkheden:** \[bijv. Third-party service beschikbaarheid\]
+
+## **💣 10\. Risico's & Mitigatie**
+
+💡 *Welke potentiële risico's kunnen de implementatie belemmeren?*
+
+* **Risico 1:** \[Beschrijving van risico\]
+  * Impact: Hoog/Medium/Laag
+  * Kans: Hoog/Medium/Laag
+  * Mitigatie: \[Strategie om dit risico te beperken\]
+* **Risico 2:** \[Beschrijving van risico\]
+  * Impact: Hoog/Medium/Laag
+  * Kans: Hoog/Medium/Laag
+  * Mitigatie: \[Strategie om dit risico te beperken\]
+
+## **⚙️ 11\. Randvoorwaarden & Aannames**
 
 💡 *Lijst de belangrijkste beperkingen en de aannames waarop dit projectplan is gebaseerd.*
 
@@ -84,3 +137,12 @@ Een beknopt maar volledig overzicht van een nieuw project, ontworpen om de 'wie,
 * **Aannames:**
     * \[Aanname 1, e.g., We gaan ervan uit dat de benodigde input van de salesafdeling op tijd wordt aangeleverd.\]
     * \[Aanname 2, e.g., We gaan ervan uit dat de externe drukkerij de afgesproken levertijden kan respecteren.\]
+
+## **🔍 12\. Implementatie Overwegingen**
+
+💡 *Algemene aandachtspunten voor de uitvoering van dit project.*
+
+* **Communicatie:** \[Hoe wordt er gecommuniceerd met stakeholders en het team?\]
+* **Kwaliteitsborging:** \[Hoe wordt de kwaliteit van de deliverables gewaarborgd?\]
+* **Change Management:** \[Hoe worden veranderingen binnen het project beheerd?\]
+* **Kennisoverdracht:** \[Hoe wordt kennis gedocumenteerd en overgedragen?\]
