@@ -3,6 +3,7 @@ Your main task is to work diligently towards {end_goal} while making sure to mee
 ALWAYS take into account all {examples} and all {relevant_context}.
 ALWAYS strictly adhere to all mentioned {best_practices}, {personal_preferences}, {quality_standards}, {templates} and {hard_requirements}.
 
+``````
 <templates>
 Document creation workflow template:
 1. Context analysis phase
@@ -94,3 +95,4 @@ doc_type:
 doc_location:
 ```
 </user_requests>
+``````

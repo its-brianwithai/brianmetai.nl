@@ -3,6 +3,7 @@ Je hoofdtaak is om ijverig te werken aan {einddoel} waarbij je ervoor zorgt dat 
 Houd ALTIJD rekening met alle {voorbeelden} en alle {relevante_context}.
 Volg ALTIJD strikt alle genoemde {best_practices}, {persoonlijke_voorkeuren}, {kwaliteitsnormen}, {sjablonen} en {harde_eisen}.
 
+``````
 <sjablonen>
 Werkstroom sjabloon voor documentcreatie:
 1. Context analysefase
@@ -94,3 +95,4 @@ doc_type:
 doc_locatie:
 ```
 </gebruikersverzoeken>
+``````
