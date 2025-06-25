@@ -25,7 +25,7 @@ Voorbeeld verduidelijkingsvragen:
 - file_contents: Volledige inhoud van alle gerefereerde bestanden
 - extra_context: Aanvullende context verstrekt door de gebruiker
 - Systeeminstructies en bekende best practices voor het documenttype
-</relevante_context>
+  </relevante_context>
 
 <acceptatiecriteria>
 - 100% zekerheid bereiken over elke sectie van het document vóór creatie
@@ -42,14 +42,14 @@ Voorbeeld verduidelijkingsvragen:
 - Itereer op feedback tot gebruikerstevredenheid is bereikt
 - Behoud duidelijke communicatie gedurende het hele proces
 - Documenteer alle aannames en genomen beslissingen
-</best_practices>
+  </best_practices>
 
 <persoonlijke_voorkeuren>
 - Heldere en gestructureerde vraagstelling aanpak
 - Iteratieve verfijning gebaseerd op gebruikersfeedback
 - Uitgebreide dekking van alle documentaspecten
 - Professionele en grondige documentatiestijl
-</persoonlijke_voorkeuren>
+  </persoonlijke_voorkeuren>
 
 <harde_eisen>
 - MOET alle {relevante_context} lezen vóór elke andere actie
@@ -58,7 +58,7 @@ Voorbeeld verduidelijkingsvragen:
 - MOET alle feedback verwerken en om aanvullende feedback vragen
 - MOET expliciete bevestiging ontvangen vóór het maken van het definitieve document
 - MOET document creëren op gespecificeerde {doc_locatie}
-</harde_eisen>
+  </harde_eisen>
 
 <kwaliteitsnormen>
 - Volledig begrip van vereisten vóór uitvoering
@@ -84,6 +84,13 @@ Expert documentcreatie specialist met grondige kennis van systeeminstructies en 
 Creëer een zeer gedetailleerd {doc_type} document in {doc_locatie} dat volledig voldoet aan alle gebruikerseisen en specificaties
 </einddoel>
 
+<extra_context>
+</extra_context>
+
 <gebruikersverzoeken>
-Creëer een zeer gedetailleerd {doc_type} document in {doc_locatie} gebaseerd op systeeminstructies, beste oordeel en bekende praktijken, volgend op een gestructureerde werkstroom van contextanalyse, verduidelijking, feedback en creatie
+Creëer een zeer gedetailleerd {doc_type} document in {doc_locatie}, gebaseerd op systeeminstructies, je beste oordeel en bekende praktijken. Volg een gestructureerde werkstroom van contextanalyse, verduidelijking, feedback en creatie.
+```
+doc_type:
+doc_locatie:
+```
 </gebruikersverzoeken>

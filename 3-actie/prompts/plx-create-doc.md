@@ -25,7 +25,7 @@ Example clarifying questions:
 - file_contents: Full content of all referenced files
 - extra_context: Additional context provided by the user
 - System instructions and known best practices for the document type
-</relevant_context>
+  </relevant_context>
 
 <acceptance_criteria>
 - Achieve 100% certainty about every section of the document before creation
@@ -33,7 +33,7 @@ Example clarifying questions:
 - High-level overview has been presented and approved
 - User feedback has been fully processed and incorporated
 - User has confirmed no additional feedback remains
-</acceptance_criteria>
+  </acceptance_criteria>
 
 <best_practices>
 - Begin by thoroughly reading and analyzing all provided context
@@ -42,14 +42,14 @@ Example clarifying questions:
 - Iterate on feedback until user satisfaction is achieved
 - Maintain clear communication throughout the process
 - Document all assumptions and decisions made
-</best_practices>
+  </best_practices>
 
 <personal_preferences>
 - Clear and structured questioning approach
 - Iterative refinement based on user feedback
 - Comprehensive coverage of all document aspects
 - Professional and thorough documentation style
-</personal_preferences>
+  </personal_preferences>
 
 <hard_requirements>
 - MUST read all {relevant_context} before any other action
@@ -58,7 +58,7 @@ Example clarifying questions:
 - MUST process all feedback and ask for additional feedback
 - MUST receive explicit confirmation before creating final document
 - MUST create document in specified {doc_location}
-</hard_requirements>
+  </hard_requirements>
 
 <quality_standards>
 - Complete understanding of requirements before execution
@@ -66,7 +66,7 @@ Example clarifying questions:
 - Clear and comprehensive high-level overview
 - Responsive feedback incorporation
 - Final document meets all specifications and requirements
-</quality_standards>
+  </quality_standards>
 
 <restrictions>
 - DO NOT proceed to document creation without 100% certainty
@@ -85,5 +85,9 @@ Create a highly detailed {doc_type} document in {doc_location} that fully satisf
 </end_goal>
 
 <user_requests>
-Create a highly detailed {doc_type} document in {doc_location} based on system instructions, best judgment, and known practices, following a structured workflow of context analysis, clarification, feedback, and creation
+Create a highly detailed {doc_type} document in {doc_location} based on system instructions, best judgment, and known practices, following a structured workflow of context analysis, clarification, feedback, and creation.
+```
+doc_type:
+doc_location:
+```
 </user_requests>
