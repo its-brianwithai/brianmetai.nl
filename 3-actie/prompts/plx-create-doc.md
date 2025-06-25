@@ -84,6 +84,9 @@ Expert document creation specialist with deep knowledge of system instructions a
 Create a highly detailed {doc_type} document in {doc_location} that fully satisfies all user requirements and specifications
 </end_goal>
 
+<extra_context>
+</extra_context>
+
 <user_requests>
 Create a highly detailed {doc_type} document in {doc_location} based on system instructions, best judgment, and known practices, following a structured workflow of context analysis, clarification, feedback, and creation.
 ```
